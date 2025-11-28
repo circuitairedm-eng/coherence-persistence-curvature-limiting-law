@@ -1,0 +1,1 @@
+# coherence-persistence-curvature-limiting-law
